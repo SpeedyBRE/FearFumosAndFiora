@@ -1,7 +1,6 @@
-========================================================================================
 Advanced engine needed: ZDoom based source ports
 Primary purpose       : Sound & Graphics replacement
-========================================================================================
+
 Title                 : Fear, Fumos & Fiora
 Filename              : FearFumosAndFiora.WAD
 Version               : 1.0
@@ -13,20 +12,16 @@ Bluesky		          : https://bsky.app/profile/speedybre.bsky.social
 Description           : In late January of 2026, VTuber FioraAlmater played Doom for
 						the first time. What occured were visions of horror, fear and
 						terror not ever before seen by mankind.
-						
 						It also created a lot of funny sound clips which is the main 
 						reason this WAD was made.
-						
 						When used, this WAD replaces all of the standard Doom Guy
 						sounds and the level start sound with the funniest sound clips 
 						Fiora made during her streams. 
-						
 						Additionally for IWADS and PWADS that use the Doom Guy graphics
 						with their status bar, they are replaced with art of Fiora's 
 						Fumo. As Fiora health decreases, her fear increases.
 						If her health is reduced to 0, the fear overcomes her and she
 						becomes a pathetic crying mess and you must restart the map.
-						
 						When using this WAD with other PWADS, it is recommended that 
 						FearFumosAndFiora.WAD is added after other used PWADS to ensure
 						the sounds and graphics are not overwritten by the other used
@@ -37,8 +32,7 @@ Additional Credits to : FioraAlmater for streaming Doom & Doom 2, making funny n
 						and providing the audio clips.
 						Twitch.tv:	https://www.twitch.tv/fioraalmater
 						Bluesky:	https://bsky.app/profile/fiora-almater.neocities.org
-                        
-						PlushMayhem (A.K.A. Tiff!) for the Fumo Fiora and Pathetic Fiora 
+                        PlushMayhem (A.K.A. Tiff!) for the Fumo Fiora and Pathetic Fiora 
 						designs used as the basis for the graphics.
 						Twitch.tv:	https://www.twitch.tv/plushmayhem
 						Bluesky:	https://bsky.app/profile/plushmayhem.bsky.social
